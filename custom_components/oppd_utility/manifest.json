@@ -1,0 +1,16 @@
+{
+  "domain": "oppd_utility",
+  "name": "OPPD",
+  "after_dependencies": [
+    "recorder"
+  ],
+  "codeowners": [
+    "@DuckCowMooQuack"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/DuckCowMooQuack/oppd_utility",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/DuckCowMooQuack/oppd_utility/issues",
+  "version": "0.0.1-rc.1"
+}

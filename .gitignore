@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.oppd_tokens.json
+oppd_test.py
